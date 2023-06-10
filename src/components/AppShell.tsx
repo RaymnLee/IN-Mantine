@@ -36,9 +36,6 @@ export default function Shell() {
       }
     >
       <Cards />
-
-      <RTE />
-
-    </AppShell>
+</AppShell>
   );
 }
